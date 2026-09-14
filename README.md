@@ -9,9 +9,9 @@
 ### Um Pouco Sobre Mim
 Seja muito bem-vindo(a) ao meu espaço!
 
-Estou vivendo uma transição de carreira consolidada para a tecnologia, onde encontrei a oportunidade perfeita para conectar minha bagagem em **Controladoria, Finanças e Gestão de Processos** ao universo do Desenvolvimento de Software. Atualmente, sou graduanda em **Análise e Desenvolvimento de Sistemas (ADS)** e atuo como **Desenvolvedora FullStack**.
+Estou vivendo uma transição de carreira consolidada para a tecnologia, onde encontrei a oportunidade perfeita para conectar minha bagagem em **Controladoria, Finanças e Gestão de Processos** ao universo do Desenvolvimento de Software. Atualmente, sou graduanda em **Análise e Desenvolvimento de Sistemas (ADS)** e atuo como **Desenvolvedora de produto**.
 
-Acredito genuinamente no poder da colaboração e na força das conexões humanas. É por isso que, no ecossistema de inovação de Fortaleza/CE, dedico minha energia e meu coração como **Diretora de Comunidade** na GitTogether e organizadora na Coda.ce — espaços onde lidero iniciativas de engajamento técnico e ajudo a fortalecer a nossa comunidade dev local.
+Acredito genuinamente no poder da colaboração e na força das conexões humanas. É por isso que, no ecossistema de inovação de Fortaleza/CE, dedico minha energia e meu coração como **Gestora de Comunidade** na GitTogether e  Coda.ce — espaços onde lidero iniciativas de engajamento  e ajudo a fortalecer a nossa comunidade dev local.
 
 *   **No que acredito:** Código limpo é fundamental, mas construir soluções que facilitem a vida das pessoas e aproximem a comunidade é o que realmente me move.
 *   **Vamos conversar?** Se você quiser trocar ideias sobre desenvolvimento, gestão de processos ou comunidades, meu perfil está sempre aberto para novas conexões!
