@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> Desenvolvedora Full Stack & Product Enthusiast</h3>
+  <h3>Desenvolvedora de Software & Gestão de Comunidades Tech</h3>
   <p>Transformando ideias em soluções digitais escaláveis, do planejamento à entrega.</p>
   
   <a href="linkedin.com/in/karlaj-castro" target="_blank">
