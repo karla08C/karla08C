@@ -30,10 +30,9 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 *   **Vamos conversar?** Se você quiser trocar ideias sobre desenvolvimento, gestão de processos ou comunidades, meu perfil está sempre aberto para novas conexões!
 
 ---
-
-###  Tecnologias e Ferramentas
-
+### 🛠️ Tecnologias e Ferramentas
 <div align="center">
+
 
 | Categoria | Tecnologias |
 | :--- | :--- |
