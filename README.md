@@ -16,7 +16,7 @@
 
 ---
 
-### 👩‍💻 Sobre Mim
+###  Sobre Mim
 
 Seja muito bem-vindo(a) ao meu espaço!
 
@@ -29,7 +29,7 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
 #### 🩺 [Sinfonia — Torre de Controle de Quimioterapia](https://github.com/karla08C/sinfonia-gestao-quimioterapia)
 *Plataforma Clínica e Operacional de Orquestração Oncológica (Ideathon Instituto do Câncer do Ceará - ICC).*
@@ -66,12 +66,12 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 
 ---
 
-### 📫 Conecte-se Comigo
+###  Conecte-se Comigo
 
 Sinta-se à vontade para iniciar uma conexão para parcerias em projetos, comunidades ou oportunidades profissionais:
 
-* 💼 **LinkedIn:** [linkedin.com/in/karlaj-castro](https://www.linkedin.com/in/karlaj-castro/)
-* 📧 **E-mail:** [karlajennifer.castro@gmail.com](mailto:karlajennifer.castro@gmail.com)
+*  **LinkedIn:** [linkedin.com/in/karlaj-castro](https://www.linkedin.com/in/karlaj-castro/)
+*  **E-mail:** [karlajennifer.castro@gmail.com](mailto:karlajennifer.castro@gmail.com)
 
 ---
 
