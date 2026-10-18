@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ol%C3%A1,%20sou%20Karla%20Castro!%20%F0%9F%9A%80&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header Karla Castro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20sou%20Karla%20Castro!%20🚀&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="Header Karla Castro" />
 </div>
 
 <div align="center">
@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/karlaj-castro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:karlajennifer.castro@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -47,37 +46,39 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 
 ### 🚀 Projetos em Destaque
 
-#### 🎯 [TalentHub ATS Simulator](https://github.com/karla08C/talenthub-ats-simulator)
-*Simulador de Pipeline de Recrutamento & Otimização de Currículos (Applicant Tracking System).*
-* **Descrição:** Aplicação desenvolvida para simular o comportamento dos principais sistemas ATS modernos, permitindo que candidatos analisem currículos em PDF antes de se candidatarem, identificando compatibilidade e aderência aos requisitos da vaga.
-* **Tecnologias:** `TypeScript`, `React`, `Tailwind CSS`, `Arquitetura Assíncrona`, `Manipulação de Dados`.
-* 🌐 **Live Demo:** [talent-hub-otimizador-curriculos-at.vercel.app](https://talent-hub-otimizador-curriculos-at.vercel.app)
-
-#### 🏥 [Sinfonia — Torre de Controle de Quimioterapia](https://github.com/karla08C/Sinfonia-_Gestao-_-QT)
+#### 🩺 [Sinfonia — Torre de Controle de Quimioterapia](https://github.com/karla08C/sinfonia-gestao-quimioterapia)
 *Plataforma Clínica e Operacional de Orquestração Oncológica (Ideathon Instituto do Câncer do Ceará - ICC).*
 * **Descrição:** Sistema hospitalar que sincroniza em tempo real as etapas de Recepção, Triagem, Capela de Manipulação (Farmácia) e Poltronas de Infusão, concebido para operar integrado ao ERP Philips Tasy com preparo *Just-in-Time* e redução do tempo de espera do paciente.
-* **Tecnologias:** `React`, `Node.js`, `Express`, `JavaScript`, `Interoperabilidade Hospitalar (Tasy)`.
+* **Tecnologias:** `React`, `Node.js`, `Express`, `JavaScript`, `Interoperabilidade Hospitalar`.
+* 🌐 **Live Demo:** [karla08c.github.io/sinfonia-gestao-quimioterapia](https://karla08c.github.io/sinfonia-gestao-quimioterapia/)
 
-#### 📊 [Performance — Gestão de Metas & Comissões](https://github.com/karla08C/performance)
+#### 📈 [Performance — Gestão de Metas & Comissões](https://github.com/karla08C/performance)
 *Plataforma de Gestão Comercial, Simulador What-If & Business Intelligence.*
-* **Descrição:** Sistema desenvolvido para cálculo dinâmico de comissões, aceleradores escalonados, super bônus e simulação de cenários ("What-If") em tempo real. Conecta regras financeiras de controladoria e engenharia de software.
+* **Descrição:** Sistema desenvolvido para cálculo dinâmico de comissões, aceleradores escalonados, super bônus e simulação de cenários em tempo real. Conecta regras financeiras de controladoria e engenharia de software.
 * **Tecnologias:** `React 19`, `TypeScript`, `Vite`, `Regras de Negócio Financeiras`, `GitHub Actions`.
 * 🌐 **Live Demo:** [karla08c.github.io/performance](https://karla08c.github.io/performance/)
 
-#### 🍽️ [Cardápio Digital Interativo](https://github.com/karla08C/Cardapio-Interativo)
-*Interface Dinâmica de Experiência do Usuário (E-commerce / Menu UX).*
-* **Descrição:** Aplicação frontend focada em usabilidade, carrinho interativo e reatividade, simulando uma jornada de pedido fluida e orientada a eventos.
-* **Tecnologias:** `React`, `JavaScript Moderno`, `Vite`, `UI/UX Responsiva`.
-* 🌐 **Live Demo:** [karla08c.github.io/Cardapio-Interativo](https://karla08c.github.io/Cardapio-Interativo/)
+#### 🎯 [TalentHub ATS Simulator](https://github.com/karla08C/talenthub-ats-simulator)
+*Simulador de Pipeline de Recrutamento & Otimização de Currículos (Applicant Tracking System).*
+* **Descrição:** Aplicação desenvolvida para simular o comportamento dos principais sistemas ATS modernos, permitindo que candidatos analisem currículos em PDF antes de se candidatarem, identificando compatibilidade e aderência aos requisitos da vaga.
+* **Tecnologias:** `TypeScript`, `React`, `Tailwind CSS`, `Arquitetura Assíncrona`.
+* 🌐 **Live Demo:** [talent-hub-otimizador-curriculos-at.vercel.app](https://talent-hub-otimizador-curriculos-at.vercel.app)
 
-#### 🏢 [Atlas Imobiliária](https://github.com/karla08C/PLATAFORMAATLASIMOBILIARIA)
-*Landing Page Institucional de Alto Padrão.*
-* **Descrição:** Presença digital para imobiliária de alto padrão em Fortaleza e região, com catálogo de imóveis, diferenciais institucionais e foco em conversão.
-* **Tecnologias:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`.
+#### 🍽️ [Cardápio Digital Interativo](https://github.com/karla08C/cardapio-interativo)
+*Interface Dinâmica de Experiência do Usuário (E-commerce / Menu UX).*
+* **Descrição:** Aplicação frontend focada em usabilidade, carrinho reativo, cálculo de adicionais e envio direto de pedidos prontos para o WhatsApp.
+* **Tecnologias:** `React`, `JavaScript Moderno`, `Vite`, `HTML5 Canvas API`, `GitHub Actions`.
+* 🌐 **Live Demo:** [karla08c.github.io/cardapio-interativo](https://karla08c.github.io/cardapio-interativo/)
+
+#### 🍇 [Vendas Mont Açaí](https://github.com/karla08C/Vendas-Mont-Acai)
+*Catálogo Digital e Checkout Comercial para Franquia / Negócio Local.*
+* **Descrição:** Aplicação de vendas direta ao cliente com seleção dinâmica de adicionais, acompanhamentos e finalização de pedido ágil.
+* **Tecnologias:** `JavaScript`, `CSS3`, `Vercel`.
+* 🌐 **Live Demo:** [vendas-mont-acai.vercel.app](https://vendas-mont-acai.vercel.app)
 
 #### 📄 [MeuContrato](https://github.com/karla08C/MeuContrato)
 *Automação de Geração de Contratos de Trabalho em Python.*
-* **Descrição:** Ferramenta que automatiza a leitura de planilhas Excel de colaboradores e gera contratos personalizados em DOCX/PDF, eliminando trabalho manual no RH/DP.
+* **Descrição:** Ferramenta que automatiza a leitura de planilhas Excel de colaboradores e gera contratos personalizados em DOCX/PDF, eliminando trabalho manual repetitivo no RH/DP.
 * **Tecnologias:** `Python`, `Pandas`, `OpenPyXL`, `python-docx`.
 
 ---
