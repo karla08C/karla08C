@@ -64,23 +64,6 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 * **Tecnologias:** `TypeScript`, `React`, `Tailwind CSS`, `Arquitetura Assíncrona`.
 * 🌐 **Live Demo:** [talent-hub-otimizador-curriculos-at.vercel.app](https://talent-hub-otimizador-curriculos-at.vercel.app)
 
-#### 🍽️ [Cardápio Digital Interativo](https://github.com/karla08C/cardapio-interativo)
-*Interface Dinâmica de Experiência do Usuário (E-commerce / Menu UX).*
-* **Descrição:** Aplicação frontend focada em usabilidade, carrinho reativo, cálculo de adicionais e envio direto de pedidos prontos para o WhatsApp.
-* **Tecnologias:** `React`, `JavaScript Moderno`, `Vite`, `HTML5 Canvas API`, `GitHub Actions`.
-* 🌐 **Live Demo:** [karla08c.github.io/cardapio-interativo](https://karla08c.github.io/cardapio-interativo/)
-
-#### 🍇 [Vendas Mont Açaí](https://github.com/karla08C/Vendas-Mont-Acai)
-*Catálogo Digital e Checkout Comercial para Franquia / Negócio Local.*
-* **Descrição:** Aplicação de vendas direta ao cliente com seleção dinâmica de adicionais, acompanhamentos e finalização de pedido ágil.
-* **Tecnologias:** `JavaScript`, `CSS3`, `Vercel`.
-* 🌐 **Live Demo:** [vendas-mont-acai.vercel.app](https://vendas-mont-acai.vercel.app)
-
-#### 📄 [MeuContrato](https://github.com/karla08C/MeuContrato)
-*Automação de Geração de Contratos de Trabalho em Python.*
-* **Descrição:** Ferramenta que automatiza a leitura de planilhas Excel de colaboradores e gera contratos personalizados em DOCX/PDF, eliminando trabalho manual repetitivo no RH/DP.
-* **Tecnologias:** `Python`, `Pandas`, `OpenPyXL`, `python-docx`.
-
 ---
 
 ### 📫 Conecte-se Comigo
