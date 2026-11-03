@@ -20,7 +20,7 @@
 
 Seja muito bem-vindo(a) ao meu espaço!
 
-Estou vivendo uma transição de carreira consolidada para a tecnologia, unindo minha sólida bagagem em **Controladoria, Finanças e Gestão de Processos** ao universo do Desenvolvimento de Software. Atualmente, sou graduanda em **Análise e Desenvolvimento de Sistemas (ADS)** e atuo como **Desenvolvedora de Software focada em produto**.
+Estou vivendo uma transição de carreira consolidada para a tecnologia, unindo minha sólida bagagem em **Controladoria, Finanças e Gestão de Processos** ao universo do Desenvolvimento de Software. Atualmente, sou graduanda em **Tecnologia da Informação** e atuo como **Desenvolvedora de Software focada em produto**.
 
 Acredito genuinamente no poder da colaboração e na força das conexões humanas. No ecossistema de inovação de Fortaleza/CE, dedico minha energia e liderança como **Gestora de Comunidade** na **GitTogether** e **Coda.ce**, impulsionando iniciativas de engajamento e ajudando a fortalecer a nossa comunidade dev local.
 
@@ -29,7 +29,7 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 
 ---
 
-###  Tecnologias e Ferramentas
+### 💻 Tecnologias & Ferramentas
 
 <div align="center">
 
