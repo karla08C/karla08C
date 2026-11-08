@@ -36,9 +36,11 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
 | **Linguagens** | `TypeScript`, `JavaScript`, `Python`, `Java` |
-| **Frontend** | `React`, `Next.js`, `Tailwind CSS`, `HTML5/CSS3`, `Vite` |
+| **Frontend** | `React 19`, `Next.js`, `Tailwind CSS v4`, `HTML5/CSS3`, `Vite` |
 | **Backend & Banco de Dados** | `Node.js`, `Express`, `FastAPI`, `PostgreSQL`, `Prisma`, `MySQL`, `Pandas` |
-| **DevOps & Ferramentas** | `Git & GitHub`, `GitHub Actions`, `Figma`, `Power BI`, `n8n` |
+| **IA & Inovação** | `Google Gemini AI SDK`, `Integrações de LLMs & Engenharia de Prompts` |
+| **Testes & Qualidade** | `Vitest (Testes Unitários Automatizados)`, `Oxlint`, `Clean Architecture` |
+| **DevOps & Ferramentas** | `Git & GitHub`, `GitHub Actions (CI/CD)`, `Vercel`, `GitHub Pages`, `Figma`, `Power BI` |
 
 </div>
 
@@ -46,17 +48,28 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 
 ###  Projetos em Destaque
 
+#### 📈 [Performance — Gestão de Metas & Comissões](https://github.com/karla08C/performance)
+*Plataforma de Gestão Comercial, Simulador What-If & Business Intelligence.*
+* **Descrição:** Sistema desenvolvido para cálculo dinâmico de comissões, aceleradores escalonados, super bônus e simulação de cenários em tempo real. Conecta regras financeiras de controladoria com engenharia de software de alta precisão.
+* **Tecnologias:** `React 19`, `TypeScript`, `Vite`, `Vitest (Testes Automatizados)`, `GitHub Actions (CI/CD)`, `Licença MIT`.
+* 🌐 **Live Demo:** [karla08c.github.io/performance](https://karla08c.github.io/performance/)
+
 #### 🩺 [Sinfonia — Torre de Controle de Quimioterapia](https://github.com/karla08C/sinfonia-gestao-quimioterapia)
 *Plataforma Clínica e Operacional de Orquestração Oncológica (Ideathon Instituto do Câncer do Ceará - ICC).*
 * **Descrição:** Sistema hospitalar que sincroniza em tempo real as etapas de Recepção, Triagem, Capela de Manipulação (Farmácia) e Poltronas de Infusão, concebido para operar integrado ao ERP Philips Tasy com preparo *Just-in-Time* e redução do tempo de espera do paciente.
-* **Tecnologias:** `React`, `Node.js`, `Express`, `JavaScript`, `Interoperabilidade Hospitalar`.
+* **Tecnologias:** `React`, `Node.js`, `Express`, `JavaScript`, `Interoperabilidade Hospitalar (Philips Tasy)`.
 * 🌐 **Live Demo:** [karla08c.github.io/sinfonia-gestao-quimioterapia](https://karla08c.github.io/sinfonia-gestao-quimioterapia/)
 
-#### 📈 [Performance — Gestão de Metas & Comissões](https://github.com/karla08C/performance)
-*Plataforma de Gestão Comercial, Simulador What-If & Business Intelligence.*
-* **Descrição:** Sistema desenvolvido para cálculo dinâmico de comissões, aceleradores escalonados, super bônus e simulação de cenários em tempo real. Conecta regras financeiras de controladoria e engenharia de software.
-* **Tecnologias:** `React 19`, `TypeScript`, `Vite`, `Regras de Negócio Financeiras`, `GitHub Actions`.
-* 🌐 **Live Demo:** [karla08c.github.io/performance](https://karla08c.github.io/performance/)
+#### 📡 [Radar Tech Brasil](https://github.com/karla08C/radar-tech-brasil)
+*Plataforma Civic Tech de Monitoramento e Centralização de Editais de Inovação, Aceleração e Hackathons.*
+* **Descrição:** Centraliza chamadas públicas de fomento à inovação (FUNCAP, FINEP, FAPESP, CNPq), programas de aceleração e hackathons, com contagem regressiva em tempo real, inteligência de elegibilidade e disparador de alertas.
+* **Tecnologias:** `TypeScript`, `React`, `Tailwind CSS`, `Express`, `Automação de Varredura`, `Licença MIT`.
+
+#### 🖤 [Vitrine Negra Fortaleza](https://github.com/karla08C/vitrine-feira-negra-fortaleza)
+*Catálogo Digital e Fomento Comercial para Afroempreendedores da Feira Negra de Fortaleza/CE.*
+* **Descrição:** Plataforma que conecta consumidores diretamente aos empreendedores culturais e comerciais da Feira Negra, integrando curadoria automatizada com IA generativa (Google Gemini) e painel administrativo de gestão.
+* **Tecnologias:** `React 19`, `TypeScript`, `Tailwind CSS v4`, `Google Gemini AI SDK`, `Motion`, `Licença MIT`.
+* 🌐 **Live Demo:** [vitrine-feira-negra-fortaleza.vercel.app](https://vitrine-feira-negra-fortaleza.vercel.app)
 
 #### 🎯 [TalentHub ATS Simulator](https://github.com/karla08C/talenthub-ats-simulator)
 *Simulador de Pipeline de Recrutamento & Otimização de Currículos (Applicant Tracking System).*
