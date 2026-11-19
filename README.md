@@ -54,16 +54,6 @@ Acredito genuinamente no poder da colaboração e na força das conexões humana
 * **Tecnologias:** `React 19`, `TypeScript`, `Vite`, `Vitest (Testes Automatizados)`, `GitHub Actions (CI/CD)`, `Licença MIT`.
 * 🌐 **Live Demo:** [karla08c.github.io/performance](https://karla08c.github.io/performance/)
 
-#### 🩺 [Sinfonia — Torre de Controle de Quimioterapia](https://github.com/karla08C/sinfonia-gestao-quimioterapia)
-*Plataforma Clínica e Operacional de Orquestração Oncológica (Ideathon Instituto do Câncer do Ceará - ICC).*
-* **Descrição:** Sistema hospitalar que sincroniza em tempo real as etapas de Recepção, Triagem, Capela de Manipulação (Farmácia) e Poltronas de Infusão, concebido para operar integrado ao ERP Philips Tasy com preparo *Just-in-Time* e redução do tempo de espera do paciente.
-* **Tecnologias:** `React`, `Node.js`, `Express`, `JavaScript`, `Interoperabilidade Hospitalar (Philips Tasy)`.
-* 🌐 **Live Demo:** [karla08c.github.io/sinfonia-gestao-quimioterapia](https://karla08c.github.io/sinfonia-gestao-quimioterapia/)
-
-#### 📡 [Radar Tech Brasil](https://github.com/karla08C/radar-tech-brasil)
-*Plataforma Civic Tech de Monitoramento e Centralização de Editais de Inovação, Aceleração e Hackathons.*
-* **Descrição:** Centraliza chamadas públicas de fomento à inovação (FUNCAP, FINEP, FAPESP, CNPq), programas de aceleração e hackathons, com contagem regressiva em tempo real, inteligência de elegibilidade e disparador de alertas.
-* **Tecnologias:** `TypeScript`, `React`, `Tailwind CSS`, `Express`, `Automação de Varredura`, `Licença MIT`.
 
 #### 🖤 [Vitrine Negra Fortaleza](https://github.com/karla08C/vitrine-feira-negra-fortaleza)
 *Catálogo Digital e Fomento Comercial para Afroempreendedores da Feira Negra de Fortaleza/CE.*
